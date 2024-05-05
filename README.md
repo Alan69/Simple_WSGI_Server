@@ -47,7 +47,3 @@ This project has no external dependencies beyond Python's built-in modules.
 ## Contributing
 
 Contributions are welcome! Please feel free to submit pull requests or open issues for any bugs, feature requests, or suggestions.
-
----
-
-Feel free to customize this README according to your project's specific details and requirements!

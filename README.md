@@ -7,7 +7,7 @@ This project implements a basic WSGI (Web Server Gateway Interface) server in Py
 - Implements a WSGI server capable of serving WSGI applications.
 - Supports basic HTTP request handling and response generation.
 - Demonstrates handling of WSGI environment variables, request methods, and paths.
-- Provides a simple example WSGI application (`simple_app`) to demonstrate usage.
+- Provides a simple example WSGI application (`app`) to demonstrate usage.
 
 ## Getting Started
 
@@ -16,7 +16,7 @@ To run the WSGI server, follow these steps:
 1. Clone this repository to your local machine:
 
     ```
-    git clone https://github.com/your-username/simple-wsgi-server.git
+    git clone https://github.com/Alan69/Simple_WSGI_Server.git
     ```
 
 2. Navigate to the project directory:
@@ -35,7 +35,7 @@ To run the WSGI server, follow these steps:
 
 ## Usage
 
-- Modify the `simple_app` function in `wsgi_server.py` or create your own WSGI application.
+- Modify the `app` function in `wsgi_server.py` or create your own WSGI application.
 - Customize the server configuration by modifying the `WSGIServer` class in `wsgi_server.py`.
 - Add additional features or middleware to extend the functionality of the server.
 
